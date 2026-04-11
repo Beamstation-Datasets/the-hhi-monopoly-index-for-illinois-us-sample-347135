@@ -1,0 +1,12 @@
+{
+  "export_job_id": "c32236b7-dfc6-459e-8a2c-f74cdf7a1b41",
+  "id_short": 347135,
+  "published_at": "2026-04-11T19:31:37Z",
+  "repo_name": "the-hhi-monopoly-index-for-illinois-us-sample-347135",
+  "sample_asset_name": "beamstation_347135_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/347135/beamstation_347135_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_records": 104,
+  "sample_sha256": "4c41dfcf36ce60c094cc8f245c5e2950821befdc7d08b98fa1f3faa58f7865e3",
+  "sample_size_bytes": 414874,
+  "total_records": 1043
+}
