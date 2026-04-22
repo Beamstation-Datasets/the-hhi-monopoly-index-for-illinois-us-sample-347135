@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Illinois, US
 
-> Free BeamStation sample export with 90 rows and masked direct-contact fields.
+> Free BeamStation sample export with 83 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `347135` |
 | Location | Illinois |
 | Category | Restaurants |
-| Full dataset size | 908 records |
-| Free sample size | 90 records (9.91%) |
-| Last export | 2026-04-14T23:35:26.404101+00:00 |
+| Full dataset size | 832 records |
+| Free sample size | 83 records (9.98%) |
+| Last export | 2026-04-22T03:11:50.827409+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-illinois-us-sample-347135/releases/download/sample-latest/beamstation_347135_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
